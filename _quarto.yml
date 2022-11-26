@@ -1,0 +1,14 @@
+project:
+  type: website 
+  output-dir: docs
+website:
+  title: "쿼토(quarto)와 디지털 글쓰기"
+  sidebar:
+    contents: auto
+  # navbar:
+  #   left:
+  #     - text: "웹사이트 만들기"
+  #       href: gitpage/index.qmd
+  #     - text: "통계와 디지털 글쓰기"
+  #       href: stat-edu/index.qmd
+
